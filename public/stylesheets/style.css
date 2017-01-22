@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+#race-card{
+  padding: 0;
+  margin: 0;
+  background-color: #e3dcbb;
+  width: 315px;
+  height: 440px;
+}
